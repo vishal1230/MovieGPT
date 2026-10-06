@@ -1,3 +1,5 @@
+> **Attribution:** This is a learning project I built by following [gyandeeparyan/netflix-gpt](https://github.com/gyandeeparyan/netflix-gpt). The original design, the linked demo, the design documents and the screenshots below belong to that project's author. I used it to practise React, Redux, Firebase auth, the TMDB API and OpenAI API integration.
+
 <div align='center'>
 
 
